@@ -2,11 +2,11 @@
 This project is a simple and interactive form validation system built using HTML, CSS, and JavaScript. It ensures that users enter valid data before submitting the form.
 
 ## ✨ Features
-✅ Real-time validation for input fields
-✅ Error messages for incorrect input
-✅ Supports email, password, and number validation
-✅ CSS styling for error and success states
-✅ Prevents form submission on invalid input
+✅ Real-time validation for input fields  
+✅ Error messages for incorrect input  
+✅ Supports email, password, and number validation  
+✅ CSS styling for error and success states  
+✅ Prevents form submission on invalid input  
 
 ## 🛠 Technologies Used
 - HTML → Structure of the form
